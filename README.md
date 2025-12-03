@@ -3,7 +3,7 @@
 <h3 align="center">Desarrolladora de Software en Gleni | Estudiante de Ingeniería en Sistemas </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1ABC9C&center=true&vCenter=true&lines=Apasionada+por+la+tecnología;Aprendiendo+Automatización+e+IA;Buscando+crecer+profesionalmente" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=1ABC9C&center=true&vCenter=true&lines=Apasionada+por+la+tecnología;Aprendiendo+Automatización+e+IA;Buscando+crecer+profesionalmente" />
 </p>
 
 ---
