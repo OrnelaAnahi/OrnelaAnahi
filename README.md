@@ -16,7 +16,7 @@ Donde realizo distintos proyectos como:
 - Desarrollo de backend, integraciones con servicios externos, manejo de APIs y modelado de datos.
 - Implementación de soluciones utilizando tecnologías como React, TypeScript, JavaScript y entornos basados en Node.js, adaptándome a las necesidades de cada proyecto.
 
-Actualmente estoy **cursando tercer año de Ingeniería en Sistemas (UTN)**.  
+Actualmente estoy **cursando cuarto año de Ingeniería en Sistemas (UTN)**.  
 Me encantan las **Matemáticas** y la **docencia**: disfruto explicar y ayudar a otros a entender mejor los temas técnicos.
 
 Me interesa especialmente:
